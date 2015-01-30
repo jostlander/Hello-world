@@ -8,6 +8,7 @@ My first repository
 
 I love:
 
-*:coffee:
-*:pizza:
-*:dancer:
+*coffee
+*pizza
+*rock climbing
+
