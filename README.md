@@ -1,6 +1,12 @@
-# Hello-world
-
+Hello-world
+===========
 
 My first repository
+-------------------
 
-I love :coffee:, :pizza:, and :dancer:
+### Tertiary Heading
+
+I love:
+*:coffee:
+*:pizza:
+*:dancer:
